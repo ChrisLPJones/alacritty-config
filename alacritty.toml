@@ -1,8 +1,8 @@
-##[terminal.shell]
-##program = "tmux"
+[terminal.shell]
+program = "tmux"
 
 [window]
-##decorations = "none"
+decorations = "none"
 padding = { x = 10, y = 10 }
 opacity = 1
 dimensions = { columns = 130, lines = 35 }
